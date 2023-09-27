@@ -1,0 +1,4 @@
+name: First pLugin
+version: '${project.version}'
+main: learning.spigot_plugin.FirstPLugin
+api-version: '1.20'
